@@ -1,0 +1,26 @@
+.foot{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqg0bECaq31UGzv06i67jf-J8RA2qmws2TVA&usqp=CAU");
+    width: auto;
+   
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-color: rgba(0, 0, 0, 0.658);
+ 
+
+    
+}
+.footer{
+    display: flex;
+    background-color: rgba(0, 0, 255, 0.486);
+    color: white;
+
+}
+.footInput input{
+    background-color: transparent;
+}
+
+@media only screen and (max-width: 618px){
+    .footer{
+        display: block;
+    }
+}

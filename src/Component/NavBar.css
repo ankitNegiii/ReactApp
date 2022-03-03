@@ -1,0 +1,11 @@
+.navLinks{
+    color: white;
+    padding-top: 10px;
+}
+.links a{
+    color: white;
+}
+.collapse{
+    display: flex;
+    justify-content: right;
+}
